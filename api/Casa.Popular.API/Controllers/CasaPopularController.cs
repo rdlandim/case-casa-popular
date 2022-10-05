@@ -1,3 +1,4 @@
+using Casa.Popular.Interfaces.Processador;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Casa.Popular.API.Controllers;
@@ -6,16 +7,11 @@ namespace Casa.Popular.API.Controllers;
 [Route("api/casa-popular")]
 public class CasaPopularController : ControllerBase
 {
-    private static readonly string[] Summaries = new[]
-    {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-    };
+    private readonly IProcessadorCategorizacao _processador;
 
-    private readonly ILogger<CasaPopularController> _logger;
-
-    public CasaPopularController(ILogger<CasaPopularController> logger)
+    public CasaPopularController(IProcessadorCategorizacao processador)
     {
-        _logger = logger;
+        _processador = processador;
     }
 
     [HttpGet("contemplados")]
@@ -23,7 +19,7 @@ public class CasaPopularController : ControllerBase
     {
         try
         {
-            return Ok(new { Api = this.GetType().Assembly.ImageRuntimeVersion, Data = DateTime.Now.ToString("g") });
+            return Ok(_processador.Processar());
         }
         catch (Exception e)
         {
