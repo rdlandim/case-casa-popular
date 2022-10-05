@@ -1,0 +1,12 @@
+D:\Projetos\case-casa-popular\api\Casa.Popular.Dominio\bin\Debug\net6.0\Casa.Popular.Dominio.deps.json
+D:\Projetos\case-casa-popular\api\Casa.Popular.Dominio\bin\Debug\net6.0\Casa.Popular.Dominio.dll
+D:\Projetos\case-casa-popular\api\Casa.Popular.Dominio\bin\Debug\net6.0\Casa.Popular.Dominio.pdb
+D:\Projetos\case-casa-popular\api\Casa.Popular.Dominio\obj\Debug\net6.0\Casa.Popular.Dominio.csproj.AssemblyReference.cache
+D:\Projetos\case-casa-popular\api\Casa.Popular.Dominio\obj\Debug\net6.0\Casa.Popular.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\case-casa-popular\api\Casa.Popular.Dominio\obj\Debug\net6.0\Casa.Popular.Dominio.AssemblyInfoInputs.cache
+D:\Projetos\case-casa-popular\api\Casa.Popular.Dominio\obj\Debug\net6.0\Casa.Popular.Dominio.AssemblyInfo.cs
+D:\Projetos\case-casa-popular\api\Casa.Popular.Dominio\obj\Debug\net6.0\Casa.Popular.Dominio.csproj.CoreCompileInputs.cache
+D:\Projetos\case-casa-popular\api\Casa.Popular.Dominio\obj\Debug\net6.0\Casa.Popular.Dominio.dll
+D:\Projetos\case-casa-popular\api\Casa.Popular.Dominio\obj\Debug\net6.0\refint\Casa.Popular.Dominio.dll
+D:\Projetos\case-casa-popular\api\Casa.Popular.Dominio\obj\Debug\net6.0\Casa.Popular.Dominio.pdb
+D:\Projetos\case-casa-popular\api\Casa.Popular.Dominio\obj\Debug\net6.0\ref\Casa.Popular.Dominio.dll

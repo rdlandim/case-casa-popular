@@ -1,0 +1,15 @@
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\bin\Debug\net6.0\Casa.Popular.Interfaces.deps.json
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\bin\Debug\net6.0\Casa.Popular.Interfaces.dll
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\bin\Debug\net6.0\Casa.Popular.Interfaces.pdb
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\bin\Debug\net6.0\Casa.Popular.Dominio.dll
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\bin\Debug\net6.0\Casa.Popular.Dominio.pdb
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\obj\Debug\net6.0\Casa.Popular.Interfaces.csproj.AssemblyReference.cache
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\obj\Debug\net6.0\Casa.Popular.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\obj\Debug\net6.0\Casa.Popular.Interfaces.AssemblyInfoInputs.cache
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\obj\Debug\net6.0\Casa.Popular.Interfaces.AssemblyInfo.cs
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\obj\Debug\net6.0\Casa.Popular.Interfaces.csproj.CoreCompileInputs.cache
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\obj\Debug\net6.0\Casa.Popular.Interfaces.csproj.CopyComplete
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\obj\Debug\net6.0\Casa.Popular.Interfaces.dll
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\obj\Debug\net6.0\refint\Casa.Popular.Interfaces.dll
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\obj\Debug\net6.0\Casa.Popular.Interfaces.pdb
+D:\Projetos\case-casa-popular\api\Casa.Popular.Interfaces\obj\Debug\net6.0\ref\Casa.Popular.Interfaces.dll

@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Casa.Popular.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Casa.Popular.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Casa.Popular.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Casa.Popular.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Casa.Popular.Dominio/Casa.Popular.Dominio.csproj",
+      "msbuildProject": "../Casa.Popular.Dominio/Casa.Popular.Dominio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Casa.Popular.Dominio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rdlan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projetos\\case-casa-popular\\api\\Casa.Popular.Interfaces\\Casa.Popular.Interfaces.csproj",
+      "projectName": "Casa.Popular.Interfaces",
+      "projectPath": "D:\\Projetos\\case-casa-popular\\api\\Casa.Popular.Interfaces\\Casa.Popular.Interfaces.csproj",
+      "packagesPath": "C:\\Users\\rdlan\\.nuget\\packages\\",
+      "outputPath": "D:\\Projetos\\case-casa-popular\\api\\Casa.Popular.Interfaces\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rdlan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Projetos\\case-casa-popular\\api\\Casa.Popular.Dominio\\Casa.Popular.Dominio.csproj": {
+              "projectPath": "D:\\Projetos\\case-casa-popular\\api\\Casa.Popular.Dominio\\Casa.Popular.Dominio.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
