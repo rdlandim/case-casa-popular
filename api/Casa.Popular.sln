@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casa.Popular.Implementacoes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casa.Popular.Dominio", "Casa.Popular.Dominio\Casa.Popular.Dominio.csproj", "{F439AF21-0872-4ACC-9A99-B6EAFC12343B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casa.Popular.Tests", "Casa.Popular.Tests\Casa.Popular.Tests.csproj", "{CEE9B95A-735B-4475-8C06-69BF1B90EDC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{F439AF21-0872-4ACC-9A99-B6EAFC12343B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F439AF21-0872-4ACC-9A99-B6EAFC12343B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F439AF21-0872-4ACC-9A99-B6EAFC12343B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE9B95A-735B-4475-8C06-69BF1B90EDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE9B95A-735B-4475-8C06-69BF1B90EDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE9B95A-735B-4475-8C06-69BF1B90EDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE9B95A-735B-4475-8C06-69BF1B90EDC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
